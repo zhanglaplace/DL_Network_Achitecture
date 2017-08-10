@@ -7,5 +7,5 @@
 ## Densenet
 > * DenseNet: [link](http://ethereon.github.io/netscope/#/gist/042dbb50a17bc7fd884e949dce0c1642)
 
-##ResidualNet
+## ResidualNet
 > * ResidualNet-50: [link](http://ethereon.github.io/netscope/#/gist/fbc079ba43a3c532f156a0d4cc972ab8)
