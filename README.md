@@ -9,3 +9,7 @@
 
 ## ResidualNet
 > * ResidualNet-50: [link](http://ethereon.github.io/netscope/#/gist/fbc079ba43a3c532f156a0d4cc972ab8)
+
+## Math
+    z = \theta_0+\theta_1*x_1+\theta_2*x_2+......+\theta_n*x_n = \sum_{0}^{n}\theta_i*x_i = {\theta}^Tx
+
